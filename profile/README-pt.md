@@ -1,4 +1,4 @@
-###### [Inglês] (https://github.com/Curriculum-Vitae-AI/.github/edit/main/profile/README.md)
+###### [Inglês](https://github.com/Curriculum-Vitae-AI/.github/edit/main/profile/README.md)
 
 # Curriculum AI
 
