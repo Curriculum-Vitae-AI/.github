@@ -1,5 +1,15 @@
 ###### [Português](https://github.com/Curriculum-Vitae-AI/.github/blob/main/profile/README-pt.md)
 
+# Team
+
+- Vinicius Peralta (RA: 821222997)
+- Mariana de Moraes Marcondes (RA: 821116771)
+- Gabriel Pastore (RA: 821224010)
+- Erik Akio Matsumoto (RA: 821115561)
+- Gabriel Guardiano do Nascimento (RA: 821145633)
+- Bruno Costa Carvalho (RA: 821116933)
+- Renan Moura Silva (RA: 821145633)
+
 # Curriculum AI
 
 This organization is used to manage Curriculum-AI microservices.
@@ -10,7 +20,6 @@ For this application we will use:
 
 - Node JS (Back-End);
 - React JS (Front-End);
-- AWS (Cloud Services);
 
 ## Dev. Requirements
 
