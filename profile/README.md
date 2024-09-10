@@ -1,6 +1,4 @@
-###### [Português](https://github.com/Curriculum-Vitae-AI/.github/blob/main/profile/README-pt.md)
-
-# Team
+# Time
 
 - Vinicius Peralta (RA: 821222997)
 - Mariana de Moraes Marcondes (RA: 821116771)
@@ -12,18 +10,19 @@
 
 # Curriculum AI
 
-This organization is used to manage Curriculum-AI microservices.
+Essa organização é utilizada para gerenciar os microserviços da aplicação Curriculum-AI.
 
-## Technologies
+## Tecnologias
 
-For this application we will use:
+Para esta aplicação utilizaremos:
 
 - Node JS (Back-End);
 - React JS (Front-End);
 
-## Dev. Requirements
+## Regras para Desenvolvedores
 
-For this organization's repositories we have some code standards that we need to follow, they are listed below:
+Para os repositórios desta organização temos alguns padrões de código a serem seguidos, segue lista:
 
-- ALL commits must follow [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0/) standards, if not followed your PR will be automatically closed;
-- The _main_ branch is used for deployments, so to commit changes on it you are going to need to open a pull request;
+- TODOS os commits devem seguir os padrões do [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0/), caso não sejam seguidos sua PR será automáticamente fechada;
+- A branch _main_ é a principal do projeto, logo para commitar suas mudanças nela será necessário um Pull Request;
+- Não modifique as branchs "deploy" elas serão somente dedicadas a processos de deploy.
