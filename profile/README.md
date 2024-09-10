@@ -24,5 +24,7 @@ Para esta aplicação utilizaremos:
 Para os repositórios desta organização temos alguns padrões de código a serem seguidos, segue lista:
 
 - TODOS os commits devem seguir os padrões do [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0/), caso não sejam seguidos sua PR será automáticamente fechada;
-- A branch _main_ é a principal do projeto, logo para commitar suas mudanças nela será necessário um Pull Request;
-- Não modifique as branchs "deploy" elas serão somente dedicadas a processos de deploy.
+- A branch _main_ é a principal de todos os repositórios, logo para commitar suas mudanças nela será necessário um Pull Request;
+- Não modifique as branchs _deploy_ elas serão somente dedicadas a processos de deploy automático em todos repositórios.
+- O repositório [.github](https://github.com/Curriculum-Vitae-AI/.github) somente deve ser utilizado para atualizar o readme da organização.
+- O repositório [Devops Testing](https://github.com/Curriculum-Vitae-AI/DevopsTesting) será utilizado para testes do projeto em geral.
