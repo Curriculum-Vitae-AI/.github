@@ -1,3 +1,5 @@
+![Logo](https://github.com/user-attachments/assets/8989f9ba-53d9-4a90-8f43-c692ff20dd45)
+
 # Time
 
 - Vinicius Peralta (RA: 821222997)
