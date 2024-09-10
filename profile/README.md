@@ -10,7 +10,7 @@
 
 # Curriculum AI
 
-Essa organização é utilizada para gerenciar os microserviços da aplicação Curriculum-AI.
+Curriculum AI é um projeto que tem como objetivo desenvolver uma Inteligência Artificial capaz de gerar currículos personalizados e otimizados com base nas especificações de vagas de emprego e cadastro do candidato, utilizando o REACT como front-end e NodeJS como back-end que consultará a API do chatGPT.
 
 ## Tecnologias
 
