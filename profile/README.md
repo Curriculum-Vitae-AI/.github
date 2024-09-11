@@ -2,13 +2,13 @@
 
 # Time
 
-- Vinicius Peralta (RA: 821222997)
-- Mariana de Moraes Marcondes (RA: 821116771)
-- Gabriel Pastore (RA: 821224010)
+- Bruno Costa Carvalho (RA: 821116933)
 - Erik Akio Matsumoto (RA: 821115561)
 - Gabriel Guardiano do Nascimento (RA: 821145633)
-- Bruno Costa Carvalho (RA: 821116933)
+- Gabriel Pastore (RA: 821224010)
+- Mariana de Moraes Marcondes (RA: 821116771)
 - Renan Moura Silva (RA: 821145633)
+- Vinicius Peralta (RA: 821222997)
 
 # Curriculum AI
 
