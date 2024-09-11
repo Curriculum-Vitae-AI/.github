@@ -14,6 +14,13 @@
 
 Curriculum AI é um projeto que tem como objetivo desenvolver uma Inteligência Artificial capaz de gerar currículos personalizados e otimizados com base nas especificações de vagas de emprego e cadastro do candidato, utilizando o REACT como front-end e NodeJS como back-end que consultará a API do chatGPT.
 
+Link para acesso a aplicação: https://curriculum-vitae-ai.github.io/Curriculum-AI-FrontEnd/
+
+# Organização
+
+Para organização do desenvolvimento criamos [Projetos](https://github.com/orgs/Curriculum-Vitae-AI/projects) onde para cada entrega temos um projeto que conta com um board definindo a estória a ser desenvolvida bem como as tarefas. Cada tarefa será linkada a uma branch e com isso é possivel acessar por meio da tarefa a sua Pull Request.
+Além da aba de projetos contamos com _Tags_ que em cada repositório indicam uma release.
+
 ## Tecnologias
 
 Para esta aplicação utilizaremos:
