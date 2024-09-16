@@ -41,4 +41,4 @@ Para os repositórios desta organização temos alguns padrões de código a ser
 - A branch _main_ é a principal de todos os repositórios, logo para commitar suas mudanças nela será necessário um Pull Request;
 - Não modifique as branchs _deploy_ elas serão somente dedicadas a processos de deploy automático em todos repositórios.
 - O repositório [.github](https://github.com/Curriculum-Vitae-AI/.github) somente deve ser utilizado para atualizar o readme da organização.
-- O repositório [Devops Testing](https://github.com/Curriculum-Vitae-AI/DevopsTesting) será utilizado para testes do projeto em geral.
+- O repositório [General Tests](https://github.com/Curriculum-Vitae-AI/GeneralTests) será utilizado para testes do projeto em geral.
