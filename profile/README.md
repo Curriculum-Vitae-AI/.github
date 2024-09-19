@@ -27,6 +27,11 @@ Abaixo estão os links da entregas conforme solicitado na Descrição do Projeto
 
 Para organização do desenvolvimento criamos [Projetos](https://github.com/orgs/Curriculum-Vitae-AI/projects) onde para cada entrega temos um projeto que conta com um board definindo a estória a ser desenvolvida bem como as tarefas. Cada tarefa será linkada a uma branch e com isso é possivel acessar por meio da tarefa a sua Pull Request.
 
+- [Entrega 01](https://github.com/orgs/Curriculum-Vitae-AI/projects/2);
+- [Entrega 02](https://github.com/orgs/Curriculum-Vitae-AI/projects/4);
+- [Entrega 03](https://github.com/orgs/Curriculum-Vitae-AI/projects/5);
+- [Entrega 04](https://github.com/orgs/Curriculum-Vitae-AI/projects/6);
+
 ## Tecnologias
 
 Para esta aplicação utilizaremos:
