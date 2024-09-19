@@ -22,6 +22,7 @@ Abaixo estão os links da entregas conforme solicitado na Descrição do Projeto
 
 - [v0.0.1](https://github.com/Curriculum-Vitae-AI/Curriculum-AI-FrontEnd/releases/tag/v0.0.1);
 - [v0.0.2](https://github.com/Curriculum-Vitae-AI/Curriculum-AI-FrontEnd/releases/tag/v0.0.2);
+- [v1.0.1](https://github.com/Curriculum-Vitae-AI/Curriculum-AI-BackEnd/releases/tag/v1.0.1);
 
 ## Organização
 
