@@ -23,6 +23,7 @@ Abaixo estão os links da entregas conforme solicitado na Descrição do Projeto
 - [v0.0.1](https://github.com/Curriculum-Vitae-AI/Curriculum-AI-FrontEnd/releases/tag/v0.0.1);
 - [v0.0.2](https://github.com/Curriculum-Vitae-AI/Curriculum-AI-FrontEnd/releases/tag/v0.0.2);
 - [v1.0.1](https://github.com/Curriculum-Vitae-AI/Curriculum-AI-BackEnd/releases/tag/v1.0.1);
+- [v1.0.2](https://github.com/Curriculum-Vitae-AI/Curriculum-AI-BackEnd/releases/tag/v1.0.2);
 
 ## Organização
 
@@ -32,13 +33,15 @@ Para organização do desenvolvimento criamos [Projetos](https://github.com/orgs
 - [Entrega 02](https://github.com/orgs/Curriculum-Vitae-AI/projects/4);
 - [Entrega 03](https://github.com/orgs/Curriculum-Vitae-AI/projects/5);
 - [Entrega 04](https://github.com/orgs/Curriculum-Vitae-AI/projects/6);
+- [Entrega 05](https://github.com/orgs/Curriculum-Vitae-AI/projects/7/);
 
 ## Tecnologias
 
 Para esta aplicação utilizaremos:
 
-- Node JS (Back-End);
-- React JS (Front-End);
+- [Node JS](https://nodejs.org/pt) (Back-End);
+- [React JS](https://react.dev/) (Front-End);
+- [Aiven.io](https://aiven.io/) (Banco de Dados);
 
 ## Regras para Desenvolvedores
 
