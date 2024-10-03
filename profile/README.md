@@ -16,9 +16,11 @@ Curriculum AI é um projeto que tem como objetivo desenvolver uma interface grá
 
 Link para acesso a aplicação: https://curriculum-vitae-ai.github.io/Curriculum-AI-FrontEnd/
 
+[Especificação do Projeto](.github/profile/EspecificacaoProjeto.pdf)
+
 # Entregas
 
-Abaixo estão os links da entregas conforme solicitado na Descrição do Projeto:
+Abaixo estão os links da entregas conforme solicitado na Especificação do Projeto:
 
 - [v0.0.1](https://github.com/Curriculum-Vitae-AI/Curriculum-AI-FrontEnd/releases/tag/v0.0.1);
 - [v0.0.2](https://github.com/Curriculum-Vitae-AI/Curriculum-AI-FrontEnd/releases/tag/v0.0.2);
