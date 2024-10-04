@@ -38,6 +38,7 @@ Para organização do desenvolvimento criamos [Projetos](https://github.com/orgs
 - [Entrega 04](https://github.com/orgs/Curriculum-Vitae-AI/projects/6);
 - [Entrega 05](https://github.com/orgs/Curriculum-Vitae-AI/projects/7/);
 - [Entrega 06](https://github.com/orgs/Curriculum-Vitae-AI/projects/8/);
+- [Entrega 07](https://github.com/orgs/Curriculum-Vitae-AI/projects/9/);
 
 ## Tecnologias
 
