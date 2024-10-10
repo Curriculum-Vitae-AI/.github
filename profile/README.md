@@ -48,6 +48,8 @@ Para esta aplicação utilizaremos:
 - [Node JS](https://nodejs.org/pt) (Back-End);
 - [React JS](https://react.dev/) (Front-End);
 - [Aiven.io](https://aiven.io/) (Banco de Dados);
+- [AWS](https://aws.amazon.com) (Hospedagem Cloud);
+- [PM2](https://pm2.keymetrics.io/) (Gerenciador de Processos);
 
 ## Regras para Desenvolvedores
 
