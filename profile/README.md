@@ -14,8 +14,6 @@
 
 Curriculum AI é um projeto que tem como objetivo desenvolver uma interface gráfica com integração ChatGPT capaz de gerar roadmaps, cartas de motivação e indicar vagas conforme informações de experiência e vontades do usuário.
 
-Link para acesso a aplicação: https://curriculum-vitae-ai.github.io/Curriculum-AI-FrontEnd/
-
 # Entregas
 
 [Especificação do Projeto](EspecificacaoProjeto.pdf)
