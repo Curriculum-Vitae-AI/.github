@@ -39,6 +39,12 @@ Para organização do desenvolvimento criamos [Projetos](https://github.com/orgs
 - [Entrega 06](https://github.com/orgs/Curriculum-Vitae-AI/projects/8/);
 - [Entrega 07](https://github.com/orgs/Curriculum-Vitae-AI/projects/9/);
 
+## Documentação
+
+Abaixo segue documentação da aplicação:
+
+- [API Back-End](https://curriculum-vitae-ai.github.io/Curriculum-AI-BackEnd/);
+
 ## Tecnologias
 
 Para esta aplicação utilizaremos:
