@@ -12,7 +12,7 @@
 
 # Curriculum AI
 
-Curriculum AI é um projeto que tem como objetivo desenvolver uma interface gráfica com integração ChatGPT capaz de gerar roadmaps, cartas de motivação e indicar vagas conforme informações de experiência e vontades do usuário.
+Curriculum AI é um projeto que tem como objetivo desenvolver uma interface gráfica com integração Gemini capaz de gerar roadmaps, cartas de motivação e indicar vagas conforme informações de experiência e vontades do usuário.
 
 # Entregas
 
