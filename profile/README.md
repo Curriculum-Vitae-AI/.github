@@ -56,6 +56,7 @@ Para esta aplicação utilizaremos:
 - [Aiven.io](https://aiven.io/) (Banco de Dados);
 - [AWS](https://aws.amazon.com) (Hospedagem Cloud);
 - [PM2](https://pm2.keymetrics.io/) (Gerenciador de Processos);
+- [Nginx](https://nginx.org/) (Gerenciador de Processos)
 
 ## Regras para Desenvolvedores
 
@@ -63,6 +64,5 @@ Para os repositórios desta organização temos alguns padrões de código a ser
 
 - TODOS os commits devem seguir os padrões do [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0/), caso não sejam seguidos sua PR será automáticamente fechada;
 - A branch _main_ é a principal de todos os repositórios, logo para commitar suas mudanças nela será necessário um Pull Request;
-- Não modifique as branchs _deploy_ elas serão somente dedicadas a processos de deploy automático em todos repositórios.
 - O repositório [.github](https://github.com/Curriculum-Vitae-AI/.github) somente deve ser utilizado para atualizar o readme da organização.
 - O repositório [General Tests](https://github.com/Curriculum-Vitae-AI/GeneralTests) será utilizado para testes do projeto em geral.
