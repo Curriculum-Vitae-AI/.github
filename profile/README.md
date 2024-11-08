@@ -55,8 +55,8 @@ Para esta aplicação utilizaremos:
 - [React JS](https://react.dev/) (Front-End);
 - [Aiven.io](https://aiven.io/) (Banco de Dados);
 - [AWS](https://aws.amazon.com) (Hospedagem Cloud);
-- [PM2](https://pm2.keymetrics.io/) (Gerenciador de Processos);
-- [Nginx](https://nginx.org/) (Gerenciador de Processos)
+- [PM2](https://pm2.keymetrics.io/) (Gerenciador de Processos - Back-End);
+- [Nginx](https://nginx.org/) (Gerenciador de Processos - Front-End)
 
 ## Regras para Desenvolvedores
 
