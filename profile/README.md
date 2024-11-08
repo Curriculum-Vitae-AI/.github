@@ -27,6 +27,7 @@ Abaixo estão os links da entregas conforme solicitado na Especificação do Pro
 - [v1.0.2](https://github.com/Curriculum-Vitae-AI/Curriculum-AI-BackEnd/releases/tag/v1.0.2);
 - [v1.1.0](https://github.com/Curriculum-Vitae-AI/Curriculum-AI-BackEnd/releases/tag/v1.1.0);
 - [v1.2.0](https://github.com/Curriculum-Vitae-AI/Curriculum-AI-BackEnd/releases/tag/v1.2.0);
+- [v2.0.0](https://github.com/Curriculum-Vitae-AI/Curriculum-AI-FrontEnd/releases/tag/v2.0.0);
 
 ## Organização
 
