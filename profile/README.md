@@ -59,11 +59,16 @@ Para esta aplicação utilizaremos:
 - [PM2](https://pm2.keymetrics.io/) (Gerenciador de Processos - Back-End);
 - [Nginx](https://nginx.org/) (Gerenciador de Processos - Front-End)
 
-## Regras para Desenvolvedores
+## Deploy
 
-Para os repositórios desta organização temos alguns padrões de código a serem seguidos, segue lista:
+Nossos deploys são realizados via [GitHub Actions](https://github.com/features/actions). Foi configurado nos repositórios de back-end e front-end arquivos de [workflow](https://github.com/Curriculum-Vitae-AI/Curriculum-AI-BackEnd/blob/main/.github/workflows/deploy-actions.yml) responsáveis por a cada vez que um merge for realizado na branch main iniciar o processo de deploy automático dependendo somente de uma aprovação de um dos administradores do repositório:
+
+![](https://github.com/user-attachments/assets/4d30a01d-b33f-4d00-81dc-ab7c6cd2a1e6)
+
+## Boas práticas
+
+Para os repositórios desta organização temos alguns padrões a serem seguidos, segue lista:
 
 - TODOS os commits devem seguir os padrões do [Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0/), caso não sejam seguidos sua PR será automáticamente fechada;
 - A branch _main_ é a principal de todos os repositórios, logo para commitar suas mudanças nela será necessário um Pull Request;
-- O repositório [.github](https://github.com/Curriculum-Vitae-AI/.github) somente deve ser utilizado para atualizar o readme da organização.
-- O repositório [General Tests](https://github.com/Curriculum-Vitae-AI/GeneralTests) será utilizado para testes do projeto em geral.
+- O repositório [.github](https://github.com/Curriculum-Vitae-AI/.github) somente deve ser utilizado para atualizar a documentação da organização.
