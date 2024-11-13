@@ -1,4 +1,4 @@
-![Logo](https://github.com/user-attachments/assets/8989f9ba-53d9-4a90-8f43-c692ff20dd45)
+![Logo](https://github.com/user-attachments/assets/207da5fc-ba8e-411a-9c8c-1e3e48025f61)
 
 # Time
 
