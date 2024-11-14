@@ -61,6 +61,17 @@ Para esta aplicação utilizaremos:
 - [PM2](https://pm2.keymetrics.io/) (Gerenciador de Processos - Back-End);
 - [Nginx](https://nginx.org/) (Gerenciador de Processos - Front-End)
 
+## Banco de Dados
+
+Todas requisições realizadas ao Gemini são armazenadas em uma tabela registrando os seguintes dados:
+
+- Requisição (JSON)
+- Resposta (JSON)
+- Serviço utilizado (ROADMAP, VAGAS ou CARTA_DE_MOTIVACAO)
+- Data da requisição
+
+![Tabela](https://github.com/user-attachments/assets/9867b6d0-9a79-42a9-95d3-06d26c9908cc)
+
 ## Deploy
 
 Nossos deploys são realizados via [GitHub Actions](https://github.com/features/actions). Foi configurado nos repositórios de back-end e front-end arquivos de [workflow](https://github.com/Curriculum-Vitae-AI/Curriculum-AI-BackEnd/blob/main/.github/workflows/deploy-actions.yml) responsáveis por a cada vez que um merge for realizado na branch main iniciar o processo de deploy automático dependendo somente de uma aprovação de um dos administradores do repositório:
