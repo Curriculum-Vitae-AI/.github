@@ -2,13 +2,15 @@
 
 # Time
 
-- Bruno Costa Carvalho (RA: 821116933)
-- Erik Akio Matsumoto (RA: 821115561)
-- Gabriel Guardiano do Nascimento (RA: 821145633)
-- Gabriel Pastore (RA: 821224010)
-- Mariana de Moraes Marcondes (RA: 821116771)
-- Renan Moura Silva (RA: 821145633)
-- Vinicius Peralta (RA: 821222997)
+| Nome                             |RA         |
+| ---------------------------------| --------- |
+| Bruno Costa Carvalho             | 821116933 |
+| Erik Akio Matsumoto              | 821115561 |
+| Gabriel Guardiano do Nascimento  | 821145633 |
+| Gabriel Pastore                  | 821224010 |
+| Mariana de Moraes Marcondes      | 821116771 |
+| Renan Moura Silva                | 821145633 | 
+| Vinícius Peralta                 | 821222997 |
 
 # Curriculum AI
 
