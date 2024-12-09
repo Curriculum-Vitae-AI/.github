@@ -16,7 +16,7 @@
 
 Curriculum AI é um projeto que tem como objetivo desenvolver uma interface gráfica com integração Gemini capaz de gerar roadmaps, cartas de motivação e indicar vagas conforme informações de experiência e vontades do usuário.
 
-[Acesso a aplicação.](http://15.228.79.219/)
+[Acesso a aplicação.](http://15.228.82.126/)
 
 # Entregas
 
